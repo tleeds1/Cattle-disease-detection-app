@@ -1,0 +1,29 @@
+{
+    "FMD": {
+        "name": "Lỡ mồm long móng",
+        "description": "Do virus thuộc giống Aphthovirus, họ Picornaviridae, nhóm ARN virus , với đặc điểm gây thủy hóa (các mụn mủ) ở tế bào thượng bì và xảy ra ở các loài động vật móng guốc chân(móng chẻ)",
+        "symptoms": "Sốt cao trên 40ºC, giảm ăn hoặc bỏ ăn, ủ rũ, thú hay nằm, chân đau không đứng vững, đi khập khiểng, Giai đoạn đầu của bệnh thú đứng hay nhấc chân lên rồi đổi chân do bị đau, nhưng khi bị nặng thì thú không đứng được và thường nằm.",
+        "solutions": [
+            "Điều trị tại chỗ: Rửa các vết loét ở miệng, lưỡi, chân, móng, bầu vú bằng một trong các dung dịch như nước muối, acid citric 1% hoặc thuốc tím 1%, phèn chua 2% (hoặc dùng các loại trái cây chua như khế, chanh vắt lấy nước, nhúng vào vải gạc sạch rồi rửa nhẹ lên vết loét ở miệng, lưỡi ngày 2 lần). Sau khi rửa sạch các mụn mũ ở vú, chân bằng nước muối, lau khô, rồi dùng thuốc BIO-BLUE SPRAY để xịt vào vết thương. Các mụn loét ở chân phải băng lại để chống ruồi.",
+            "Điều trị toàn thân: Sử dụng BIO-CEVIT hoặc BIO-ADE+B.COMPLEX để tăng cường sức đề kháng. Điều trị nhiễm khuẩn thứ phát bằng một trong hai kháng sinh như BIO-TYLOSIN-PC, hoặc BIO-D.O.C ® rất hiệu quả",
+            "Nếu thú bị suy nhược thì nên kết hợp truyền thêm BIO-GLUCOSE 5%",
+            "Nhốt thú ở chuồng sạch và khô ráo, nên có tấm lót để thú không bị đau chân. Cho ăn thức ăn mềm để dễ nhai và dễ tiêu hóa. Ở những vùng khí hậu lạnh phải giữ ấm cho thú. Nếu điều trị đúng cách và chăm sóc tốt, thú sẽ lành bệnh sau 10-15 ngày:",
+        ]
+    },
+    "LSD": {
+        "name": "Viêm da nổi cục",
+        "description": "là bệnh truyền nhiễm do một loại virrus thuộc họ Poxviridae chi Capripoxvirus gây ra trên trâu, bò. Virrus viêm da nổi cục không lây nhiễm và không gây bệnh trên người.",
+        "symptoms": "Trâu, bò mắc bệnh có những biểu hiện:  Sốt cao, có thể trên 41°C. Giảm năng suất sữa rõ rệt ở gia súc đang cho con bú. Suy nhược, bỏ ăn và hốc hác; Viêm mũi, viêm kết mạc và tiết nhiều nước bọt. Sưng hạch bạch huyết bề mặt, Hình thành các nốt sần có đường kính từ 2-5 cm, đặc biệt là ở da đầu, cổ, chân, bầu vú, cơ quan sinh dục và đáy chậu trong vòng 48 giờ sau khi bắt đầu phản ứng sốt. Các nốt sân này có hình tròn, chắc, tròn và nhô cao, liên quan đến da, mô dưới da và đôi khi cả các cơ bên dưới.",
+        "solutions": [
+            "Bệnh này chưa có thuốc đặc hiệu",
+            "Liên lạc với trung tâm thú y tại địa phương",
+            "Cách ly đàn chứa bò bệnh",
+        ]
+    },
+    "NOR": {
+        "name": "Khỏe mạnh",
+        "description": "Biểu hiện trên bò khỏe mạnh",
+        "symptoms": "",
+        "solutions": []
+    },
+}

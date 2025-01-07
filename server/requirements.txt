@@ -1,0 +1,6 @@
+tensorflow
+pillow
+flask
+apscheduler
+scipy
+itsdangerous==2.1.2
